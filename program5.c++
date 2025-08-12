@@ -1,3 +1,5 @@
+// This is a simple C++ program that prints the size of various data types
+
 #include <iostream>
 using namespace std;
 

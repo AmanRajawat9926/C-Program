@@ -1,3 +1,5 @@
+// This is a C++ program to calculate the area of a rectangle
+
 #include <iostream>
 using namespace std;
 

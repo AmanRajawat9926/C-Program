@@ -1,3 +1,5 @@
+//This program compares two numbers and prints the larger one or indicates if they are equal.
+
 #include <iostream>
 using namespace std;
 

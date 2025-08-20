@@ -1,3 +1,5 @@
+// This program finds the largest of three numbers.
+
 #include <iostream>
 using namespace std;
 

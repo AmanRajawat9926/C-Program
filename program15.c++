@@ -1,3 +1,5 @@
+//In this program, we will check if a number is divisible by both 5 and 11.
+
 #include <iostream>
 using namespace std;
 

@@ -1,3 +1,5 @@
+//In this program, we will check if a given year is a leap year or not.
+
 #include <iostream>
 using namespace std;
 

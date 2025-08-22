@@ -1,3 +1,5 @@
+// In this program, we will determine the grade based on marks entered by the user.
+
 #include <iostream>
 using namespace std;
 

@@ -1,3 +1,5 @@
+//In this program, we will check if a character is an uppercase letter, lowercase letter, digit, or special symbol.
+
 #include <iostream>
 using namespace std;
 

@@ -1,3 +1,5 @@
+//In this program, we calculate the roots of a quadratic equation ax^2 + bx + c = 0
+
 #include <iostream>
 #include <cmath>
 using namespace std;

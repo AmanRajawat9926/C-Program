@@ -1,3 +1,5 @@
+//In this program, we calculate the absolute value of a number
+
 #include <iostream>
 using namespace std;
 

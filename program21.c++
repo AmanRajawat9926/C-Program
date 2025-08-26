@@ -1,3 +1,5 @@
+//In this program, we print the numbers from 1 to 10 using a loop
+
 #include <iostream>
 using namespace std;
 

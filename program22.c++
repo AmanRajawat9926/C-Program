@@ -1,3 +1,5 @@
+\\In this program, we print the multiplication table of a given number
+
 #include <iostream>
 using namespace std;
 

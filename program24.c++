@@ -1,3 +1,5 @@
+//In this program, we calculate the factorial of a given number
+
 #include <iostream>
 using namespace std;
 

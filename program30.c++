@@ -1,3 +1,5 @@
+//In this program, we print Fibonacci series up to n terms
+
 #include <iostream>
 using namespace std;
 

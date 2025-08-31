@@ -1,3 +1,5 @@
+//In this program we find the smallest element in an array
+
 #include <iostream>
 using namespace std;
 
